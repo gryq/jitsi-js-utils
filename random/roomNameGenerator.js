@@ -218,7 +218,7 @@ export function generateRoomWithoutSeparator() {
             name = name.replace(template, word);
         }
     }
-
+	alert(name);
     return name;
 }
 
