@@ -204,7 +204,7 @@ const PATTERNS = [
  * @returns {string} A newly-generated room name.
  */
 export function generateRoomWithoutSeparator() {
-	alert("gr");
+	alert("gr333");
     // XXX Note that if more than one pattern is available, the choice of 'name'
     // won't have a uniform distribution amongst all patterns (names from
     // patterns with fewer options will have higher probability of being chosen
